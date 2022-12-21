@@ -9,5 +9,4 @@ I am a BOT!!!
 I am a BOT!!!  
 I am a BOT!!!  
 
-Thanks,
-Saveweb Team.
+Save the Web Project - Team.
